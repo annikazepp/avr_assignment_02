@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Typo" size="0.100000 0.056551" />
+    <ImageTarget name="Menschen" size="0.060000 0.033566" />
+    <ImageTarget name="Fassade" size="0.030000 0.041586" />
+    <ImageTarget name="Augen" size="0.100000 0.056970" />
+    <ImageTarget name="Erde" size="0.050000 0.038084" />
+    <ImageTarget name="kind" size="0.050000 0.030740" />
+    <ImageTarget name="hase" size="0.050000 0.039009" />
+  </Tracking>
+</QCARConfig>
